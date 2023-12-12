@@ -1,0 +1,5 @@
+setup.py
+pyrate.egg-info/PKG-INFO
+pyrate.egg-info/SOURCES.txt
+pyrate.egg-info/dependency_links.txt
+pyrate.egg-info/top_level.txt
